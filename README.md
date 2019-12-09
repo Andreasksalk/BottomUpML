@@ -6,12 +6,14 @@ THis repository was created to go into the basics of programming all various kin
 This is done using my spare time so it wont all come at the same time.
 
 Here is the outline of what i want to go through so far:
+
 Introduction
 1.	Probability
 2.	Model selection
 3.	The curse of dimensionality
 4.	Decision Theory
 5.	Information Theory
+
 Supervised learning
 1.	Regression / classification (Linear and logistic classification)
 2.	Bayesian
@@ -22,10 +24,13 @@ Supervised learning
 7.	Neural Networks
 8.	Deep Learning
 9.	Probabilistic Graphical Models
+
 Unsupervised learning
 1.	Clustering
 2.	Dimensionality reduction
+
 Reinforcement Learning
+
 Explainable ML
 1.	Evaluation metrics
 2.	Surrogate models
